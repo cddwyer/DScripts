@@ -5,8 +5,8 @@
 #### Download Google Chrome, check version against ####
 #### currently installed version, if an update has #### 
 #### been released it will install, otherwise the  #### 
-####			script will exit.				   ####
-####      Christian Dwyer   -   30/1/2018          ####
+####			script will exit.	   ####
+#### 					           ####
 #######################################################
 
 # Set Variables
