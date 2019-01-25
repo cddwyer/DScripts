@@ -1,5 +1,9 @@
 #!/bin/bash
 
+
+####### WARNING: This script is in progress and should not be used, I do not take any responsibility
+#######          if you screw up your policy scopes with this, you have been warned.
+
 apiUser=""
 apiPass=""
 
